@@ -86,5 +86,5 @@ async def serverinfo(ctx):
         embed.set_thumbnail(url=ctx.guild.icon_url)
         await ctx.send(embed=embed)
  
-client.run('NzcyNzc0NzMzMDkwMzkwMDM3.X5_kjQ.sA7m-GwLEhHd5sLfxS_FoIO1sjA')
+client.run('')
 
