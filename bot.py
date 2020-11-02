@@ -401,5 +401,5 @@ async def meme(ctx):
   embed.set_image(url=random.choice(images))
   await ctx.send(embed=embed)
           
-client.run('NzUzMDY3NDkxMTAxNTA3NjE3.X1gywQ.K62kDddu_6LfGPScPA52t4rNNZQ')
+client.run('NzcyNzc0NzMzMDkwMzkwMDM3.X5_kjQ.sA7m-GwLEhHd5sLfxS_FoIO1sjA')
 
